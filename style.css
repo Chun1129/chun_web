@@ -71,7 +71,7 @@ a {
     /* 设置初始透明度为1，显示图片和文本 */
     /* transition: opacity 0.3s ease; */
     /* 添加透明度过渡效果 */
-    /* animation: zoom-in 1.5s ease-in-out, fade-in 1.5s ease-in-out; */
+    animation: zoom-in 1.5s ease-in-out, fade-in 1.5s ease-in-out;
 }
 
 .center-container a:active img{
